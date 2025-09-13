@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "137e253c-e6f6-47ad-80fb-a76f67a8250d",
+		"name": "GhibliAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47980100",
+		"_collection_link": "https://s17847652-4622017.postman.co/workspace/deliaa's-Workspace~4be56eb4-525c-438c-8e04-a7d0ff4d0b97/collection/47980100-137e253c-e6f6-47ad-80fb-a76f67a8250d?action=share&source=collection_link&creator=47980100"
+	},
+	"item": [
+		{
+			"name": "post_riviews",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get_riviews",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "put_riviews",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delete_riviews",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
