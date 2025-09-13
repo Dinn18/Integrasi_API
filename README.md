@@ -53,7 +53,7 @@ Kode Js
   }
 ]
 
-![foto1](image/1.png)
+![images1](images/images1.png)
 
 
 2. Menunjukkan hasil pengujian endpoint POST /reviews menggunakan Postman.
@@ -79,7 +79,7 @@ Respons yang diterima menunjukkan data berhasil disimpan dengan status 201 Creat
   "Comment": "Pengambilan gambar dan efek visualnya bagus, mendukung suasana film"
 }
 
-![foto2](image/2.png)
+![images2](images/images2.png)
 
 
 3. Menunjukkan hasil pengujian endpoint GET /reviews menggunakan Postman.
@@ -119,7 +119,7 @@ Hasil respon berupa array JSON yang berisi beberapa data review, contohnya:
 ]
 
 Respon berhasil ditampilkan dengan status 200 OK.
-![foto3](image/3.png)
+![images3](images/images3.png)
 
 
 4. Menunjukkan hasil pengujian endpoint PUT /reviews/A01 menggunakan Postman.
@@ -135,7 +135,7 @@ Pada pengujian ini, data review dengan id: A01 diperbarui menjadi:
 }
 
 Hasil respon berhasil ditampilkan dengan status 200 OK dan menunjukkan bahwa data review berhasil diperbarui.
-![foto4](image/4.png)
+![images4](images/images4.png)
 
 
 5. Menunjukkan hasil pengujian endpoint DELETE /reviews/A01 menggunakan Postman.
@@ -147,9 +147,9 @@ Deleted success
 
 Dengan status 200 OK, menandakan proses penghapusan data berhasil dilakukan.
 
-![foto5](image/5.png)
+![images5](images/images5.png)
 
 ## TABEL HASIL PENGUJIAN
 
 Berikut adalah tabel skenario pengujian untuk endpoint /reviews beserta ekspektasi hasil respons:
-![fototabel](image/tabel.png)
+![imagestabel](images/imagestabel.png)
